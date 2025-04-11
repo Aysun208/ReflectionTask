@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\Reflection Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D511109-2F2E-4801-87C7-88AB8867AD6E}|Reflection Task\\Reflection Task.csproj|c:\\users\\asus\\source\\repos\\reflection task\\reflection task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D511109-2F2E-4801-87C7-88AB8867AD6E}|Reflection Task\\Reflection Task.csproj|solutionrelative:reflection task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D511109-2F2E-4801-87C7-88AB8867AD6E}|Reflection Task\\Reflection Task.csproj|c:\\users\\asus\\source\\repos\\reflection task\\reflection task\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D511109-2F2E-4801-87C7-88AB8867AD6E}|Reflection Task\\Reflection Task.csproj|solutionrelative:reflection task\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Reflection Task\\Reflection Task\\User.cs",
+              "RelativeDocumentMoniker": "Reflection Task\\User.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Reflection Task\\Reflection Task\\User.cs",
+              "RelativeToolTip": "Reflection Task\\User.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:38:20.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Reflection Task\\Reflection Task\\Program.cs",
+              "RelativeDocumentMoniker": "Reflection Task\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Reflection Task\\Reflection Task\\Program.cs",
+              "RelativeToolTip": "Reflection Task\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:37:55.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
